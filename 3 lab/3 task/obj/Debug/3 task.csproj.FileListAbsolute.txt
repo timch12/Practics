@@ -1,0 +1,69 @@
+C:\Users\user\Desktop\Practics\3 task\3 task\bin\Debug\3 task.exe.config
+C:\Users\user\Desktop\Practics\3 task\3 task\bin\Debug\3 task.exe
+C:\Users\user\Desktop\Practics\3 task\3 task\bin\Debug\3 task.pdb
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\3 task.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\Page1.g.cs
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\3 task_MarkupCompile.cache
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\3 task_MarkupCompile.lref
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\Page1.baml
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\3 task.g.resources
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\_3_task.Properties.Resources.resources
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\3 task.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\3 task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\3 task.exe
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\3 task.pdb
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\Page2.g.cs
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\Page3.g.cs
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\Page4.g.cs
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\Page2.baml
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\Page3.baml
+C:\Users\user\Desktop\Practics\3 task\3 task\obj\Debug\Page4.baml
+C:\Users\user\Desktop\3 task\bin\Debug\3 task.exe.config
+C:\Users\user\Desktop\3 task\bin\Debug\3 task.exe
+C:\Users\user\Desktop\3 task\bin\Debug\3 task.pdb
+C:\Users\user\Desktop\3 task\obj\Debug\3 task.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3 task\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\3 task\obj\Debug\Page1.g.cs
+C:\Users\user\Desktop\3 task\obj\Debug\Page2.g.cs
+C:\Users\user\Desktop\3 task\obj\Debug\Page3.g.cs
+C:\Users\user\Desktop\3 task\obj\Debug\Page4.g.cs
+C:\Users\user\Desktop\3 task\obj\Debug\App.g.cs
+C:\Users\user\Desktop\3 task\obj\Debug\3 task_MarkupCompile.cache
+C:\Users\user\Desktop\3 task\obj\Debug\3 task_MarkupCompile.lref
+C:\Users\user\Desktop\3 task\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\3 task\obj\Debug\Page1.baml
+C:\Users\user\Desktop\3 task\obj\Debug\Page2.baml
+C:\Users\user\Desktop\3 task\obj\Debug\Page3.baml
+C:\Users\user\Desktop\3 task\obj\Debug\Page4.baml
+C:\Users\user\Desktop\3 task\obj\Debug\3 task.g.resources
+C:\Users\user\Desktop\3 task\obj\Debug\_3_task.Properties.Resources.resources
+C:\Users\user\Desktop\3 task\obj\Debug\3 task.csproj.GenerateResource.cache
+C:\Users\user\Desktop\3 task\obj\Debug\3 task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3 task\obj\Debug\3 task.exe
+C:\Users\user\Desktop\3 task\obj\Debug\3 task.pdb
+C:\Users\user\Desktop\Practics\3 lab\3 task\bin\Debug\3 task.exe.config
+C:\Users\user\Desktop\Practics\3 lab\3 task\bin\Debug\3 task.exe
+C:\Users\user\Desktop\Practics\3 lab\3 task\bin\Debug\3 task.pdb
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\3 task.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\Page1.g.cs
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\Page2.g.cs
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\Page3.g.cs
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\Page4.g.cs
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\3 task_MarkupCompile.cache
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\3 task_MarkupCompile.lref
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\Page1.baml
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\Page2.baml
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\Page3.baml
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\Page4.baml
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\3 task.g.resources
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\_3_task.Properties.Resources.resources
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\3 task.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\3 task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\3 task.exe
+C:\Users\user\Desktop\Practics\3 lab\3 task\obj\Debug\3 task.pdb

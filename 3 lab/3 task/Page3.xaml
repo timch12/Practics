@@ -1,0 +1,15 @@
+﻿<Window x:Class="_3_task.Page3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3_task"
+        mc:Ignorable="d"
+        Title="Page3" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Back" Content="В главное меню" HorizontalAlignment="Left" Height="62" Margin="290,245,0,0" VerticalAlignment="Top" Width="155" Click="Back_Click" BorderBrush="#FFE6C5C5" Background="#FFE8BFBF" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="l" HorizontalAlignment="Left" Height="64" Margin="290,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155" FontWeight="Bold" FontSize="24"/>
+        <Button x:Name="res" Content="Попал в промежуток?" HorizontalAlignment="Left" Height="64" Margin="290,163,0,0" VerticalAlignment="Top" Width="155" Background="#FFCACCF4" FontWeight="Bold" FontSize="14" Click="res_Click"/>
+
+    </Grid>
+</Window>

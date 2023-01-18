@@ -1,0 +1,19 @@
+﻿<Window x:Class="Task_4.Page6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_4"
+        mc:Ignorable="d"
+        Title="Page6" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Back" Content="В главное меню" HorizontalAlignment="Left" Height="71" Margin="56,58,0,0" VerticalAlignment="Top" Width="129" Click="Back_Click" BorderBrush="#FFE6C5C5" Background="#FFE8BFBF"/>
+        <Label x:Name="ans" Content="" HorizontalAlignment="Left" Height="41" Margin="541,300,0,0" VerticalAlignment="Top" Width="83"/>
+        <Button x:Name="Button" Content="расчитать" HorizontalAlignment="Left" Margin="264,178,0,0" VerticalAlignment="Top" Width="74" Height="39" Click="button_Click" Background="White"/>
+        <TextBox x:Name="TBA" HorizontalAlignment="Left" Height="63" Margin="227,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" RenderTransformOrigin="-0.115,0.406"/>
+        <TextBlock x:Name="TBB" HorizontalAlignment="Left" Height="27" Margin="427,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="213" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="32" Margin="227,62,0,0" TextWrapping="Wrap" Text="Введите факториал:" VerticalAlignment="Top" Width="148" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="39" Margin="391,105,0,0" TextWrapping="Wrap" Text="=" VerticalAlignment="Top" Width="31" FontSize="32"/>
+
+    </Grid>
+</Window>

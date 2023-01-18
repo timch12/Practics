@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp1.task1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="task1" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="back1" Content="Button" HorizontalAlignment="Left" Height="69" Margin="71,80,0,0" VerticalAlignment="Top" Width="113" Click="Button_Click"/>
+        <TextBox x:Name="number1Box" HorizontalAlignment="Left" Margin="45,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" FontSize="18" Height="65"/>
+        <TextBox x:Name="number2Box" HorizontalAlignment="Left" Margin="446,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="229" FontSize="18" Height="65"/>
+        <Label Content="Число 1" HorizontalAlignment="Left" Margin="70,172,0,0" VerticalAlignment="Top" Height="65" Width="107"/>
+        <Label Content="Число 2" HorizontalAlignment="Left" Margin="471,174,0,0" VerticalAlignment="Top" Height="65" Width="106"/>
+        <Button x:Name="wer" Content="Выполнить операцию" HorizontalAlignment="Left" Margin="45,320,0,0" VerticalAlignment="Top" Height="67" Width="634" Click="wer_Click"/>
+        <TextBox x:Name="operationBox" HorizontalAlignment="Left" Margin="313,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" TextAlignment="Center" FontSize="18" Height="65"/>
+        <Label Content="Операция" HorizontalAlignment="Left" Margin="325,172,0,0" VerticalAlignment="Top" Height="65" Width="132"/>
+
+    </Grid>
+</Window>

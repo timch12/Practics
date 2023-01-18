@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp1.task2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="task2" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="back2" Content="Button" HorizontalAlignment="Left" Height="69" Margin="49,63,0,0" VerticalAlignment="Top" Width="113" Click="Button_Click"/>
+        <Label Content="Сумма в валюте №1" HorizontalAlignment="Left" Margin="197,32,0,0" VerticalAlignment="Top" Height="52" Width="266"/>
+        <Button x:Name="convertBut" Content="Конвертировать в валюту №2" HorizontalAlignment="Left" Margin="197,289,0,0" VerticalAlignment="Top" Height="54" Width="430" Click="convertBut_Click"/>
+        <TextBox x:Name="kursBox" HorizontalAlignment="Left" Margin="206,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="421" TextAlignment="Center" FontSize="18" Height="52"/>
+        <Label Content="Курс обмена на валюту №2" Margin="195,144,252,0" VerticalAlignment="Top" RenderTransformOrigin="0.419,0.233" Height="53"/>
+        <TextBox x:Name="summaBox" HorizontalAlignment="Left" Margin="204,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="423" FontSize="18" TextAlignment="Center" Height="52"/>
+
+    </Grid>
+</Window>
